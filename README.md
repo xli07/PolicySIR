@@ -1,5 +1,5 @@
 # PolicySIR
-This project contains all the code for the paper **Optimal policy for control of epidemics]{Optimal policy for control of epidemics with constrained time intervals and region-based interactions**.
+This project contains all the code for the paper **Optimal policy for control of epidemics with constrained time intervals and region-based interactions**.
 
 ## Data
 
